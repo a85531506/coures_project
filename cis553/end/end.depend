@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1359851301 source:/home/boli/cis553/end/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<unistd.h>
+

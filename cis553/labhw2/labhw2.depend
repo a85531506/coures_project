@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1359439744 source:/home/boli/cis553/labhw2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hashtable.h"
+
+1359435001 /home/boli/cis553/labhw2/hashtable.h
+
+1359472151 source:/home/boli/cis553/labhw2/hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hashtable.h"
+

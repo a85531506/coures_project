@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1359090084 source:/home/boli/cis553/tcpclient.c
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+
